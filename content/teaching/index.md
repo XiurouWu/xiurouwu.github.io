@@ -13,3 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+Below is a list of classes I work as a teaching assistant
+
+- ARE 240C Time Series Econometrics, graduate class, with Professor Bulat Gafarov  
+
+- ARE 155 Operation Research and Management Science, undergraduate Class, with Professor Holly Liu
+
