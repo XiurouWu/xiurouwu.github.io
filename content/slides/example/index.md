@@ -102,8 +102,6 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
-
 ## Custom Slide
 
 Customize the slide style and background
