@@ -17,12 +17,17 @@
       <link>https://xiurouwu.github.io/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://xiurouwu.github.io/research/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;My research builds micro-foundations for conservation and resource management problems, to address the wellbeing of people who depend on the resources and the health of ecosystems. To solve these challenging problems, I employ dynamic optimization, mathematical programming, and econometrics methodologies. I also look beyond economics for state-of-the-art tools to tackle these often nonsmooth dynamic resource management problems.&lt;/p&gt;
 &lt;hr&gt;
+=======
+      <description>&lt;hr&gt;
+>>>>>>> 1de760c (first commit)
 &lt;h2 id=&#34;spatial-dynamic-model-of-commercial-fishing-trip-decision-making-h2&#34;&gt;Spatial-dynamic model of commercial fishing trip decision-making &lt;h2&gt;&lt;/h2&gt;
 &lt;p&gt;In the short-run, after choosing the target species and fishing gear, fishermen decide where to fish, how much to fish and when to return to the port on a given trip. While there is a large literature investigating these decisions, most of the research has focused on one aspect of the decision at a time (e.g., choosing a fishing location) treating other aspects exogenous.
 These decisions, however, are interconnected and conditional on the underlying vessel capital stock of the fishermen (e.g., hold and fuel capacity). With the advent of global positioning data in fisheries, now more than ever we are able to empirically model trip decision-making. This research constructs a novel spatial dynamic model of an individual fisherman&amp;rsquo;s trip level decision-making that incorporates simultaneous decisions on location choice, fishing effort to allocate at each location, and travel route. The model is motivated by the observations on fishing trips from the Gulf of Mexico&amp;rsquo;s bottom longline fishery.
 The results also show these constraints impose a shadow price that affects the individual fisherman&amp;rsquo;s choice of location and effort from the outset of a trip.We compare these optimal spatial patterns with those from a myopic model where the technology constraints only affect decisions in the last decision point before going back to the port. Building more refined models of trip level spatial decision-making is important for the design and assessment of spatial and aspatial fishery management instruments.&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;: fishery management, location choice, discrete-continuous dynamic choice, mixed integer programming&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;modeling-ecosystem-service-conflicts-in-chinas-lake-poyang-h2&#34;&gt;Modeling Ecosystem Service Conflicts in China’s Lake Poyang &lt;h2&gt;&lt;/h2&gt;
@@ -44,6 +49,22 @@ The results also show these constraints impose a shadow price that affects the i
 &lt;li&gt;Mathmatical Programming:
 &lt;a href=&#34;https://www.gurobi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gurobi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+=======
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;modeling-ecosystem-service-conflicts-in-chinas-lake-poyang-h2&#34;&gt;Modeling Ecosystem Service Conflicts in China’s Lake Poyang &lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;This paper proposes a model of ecosystem service management that takes into account the conflict between fisheries operations and conservation of endangered and threatened waterfowl, specifically Siberian Cranes. The model is calibrated to fit the example of China’s largest freshwater lake, Lake Poyang, the wintering ground for the last surviving population of Siberian Cranes. It captures important features of the lake&amp;rsquo;s hydrology, ecosystem, and economics to investigate the impact of uncoordinated and coordinated management of fishing and bird conservation.  The current regulations do not account for the externality fishing imposes on the endangered cranes, which results in their reduced population size.  We argue that the fishing season should be extended until the end of the wintering season to better conserve the cranes.  The model quantifies the cost of extending the season and can be used to design an optimal sustainable management policy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;: bioeconomics, endangered species conservation&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;testing-for-uniqueness-of-solutions-of-linear-inequality-systems-with-bulat-gafarovhttpsgafarovucdaviseduindexhtml-h2&#34;&gt;Testing for uniqueness of solutions of linear inequality systems (with &lt;a href=&#34;https://gafarov.ucdavis.edu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bulat Gafarov&lt;/a&gt;) &lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;We provide a necessary and sufficient condition for point identification of a parameter defined by a system of linear moment inequalities. We design a specification test, that distinguishes point-identified linear inequality model from a  misspecified or set-identified one. It is based on a novel necessary condition that can be reformulated in terms of positive linear dependence and feasibility of the inequalities.  We provide a joint testof the necessary conditions. The test is consistent against practically relevant hypotheses of misspecificationor identified set with empty interior. The procedure is based on feasibility check of linear and integralityconstraints, that can be efficiently performed using mixed integer quadratic programming (MIQP) solversin seconds.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;impacts-of-hypothetical-closures-around-the-galapagos-on-the-tuna-fisheries-in-the-eastern-pacific-ocean&#34;&gt;Impacts of hypothetical closures around the Galapagos on the tuna fisheries in the Eastern Pacific Ocean&lt;/h2&gt;
+&lt;p&gt;Measure the implications of hypothetical spatial closures in the area around the Galapagos on catches, revenue per trip, and the spatial distribution of fishing effort for the purse seine tuna fleet operating in the Eastern Pacific Ocean.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+>>>>>>> 1de760c (first commit)
 </description>
     </item>
     

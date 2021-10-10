@@ -110,6 +110,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Income Inequality and County Economic Resistance to Job Loss during the Great Recession</title>
       <link>https://xiurouwu.github.io/publication/inequality/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -118,6 +119,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 1de760c (first commit)
       <title>Slides</title>
       <link>https://xiurouwu.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -219,12 +222,17 @@ if porridge == &amp;quot;blueberry&amp;quot;:
       <link>https://xiurouwu.github.io/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://xiurouwu.github.io/research/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;My research builds micro-foundations for conservation and resource management problems, to address the wellbeing of people who depend on the resources and the health of ecosystems. To solve these challenging problems, I employ dynamic optimization, mathematical programming, and econometrics methodologies. I also look beyond economics for state-of-the-art tools to tackle these often nonsmooth dynamic resource management problems.&lt;/p&gt;
 &lt;hr&gt;
+=======
+      <description>&lt;hr&gt;
+>>>>>>> 1de760c (first commit)
 &lt;h2 id=&#34;spatial-dynamic-model-of-commercial-fishing-trip-decision-making-h2&#34;&gt;Spatial-dynamic model of commercial fishing trip decision-making &lt;h2&gt;&lt;/h2&gt;
 &lt;p&gt;In the short-run, after choosing the target species and fishing gear, fishermen decide where to fish, how much to fish and when to return to the port on a given trip. While there is a large literature investigating these decisions, most of the research has focused on one aspect of the decision at a time (e.g., choosing a fishing location) treating other aspects exogenous.
 These decisions, however, are interconnected and conditional on the underlying vessel capital stock of the fishermen (e.g., hold and fuel capacity). With the advent of global positioning data in fisheries, now more than ever we are able to empirically model trip decision-making. This research constructs a novel spatial dynamic model of an individual fisherman&amp;rsquo;s trip level decision-making that incorporates simultaneous decisions on location choice, fishing effort to allocate at each location, and travel route. The model is motivated by the observations on fishing trips from the Gulf of Mexico&amp;rsquo;s bottom longline fishery.
 The results also show these constraints impose a shadow price that affects the individual fisherman&amp;rsquo;s choice of location and effort from the outset of a trip.We compare these optimal spatial patterns with those from a myopic model where the technology constraints only affect decisions in the last decision point before going back to the port. Building more refined models of trip level spatial decision-making is important for the design and assessment of spatial and aspatial fishery management instruments.&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;: fishery management, location choice, discrete-continuous dynamic choice, mixed integer programming&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;modeling-ecosystem-service-conflicts-in-chinas-lake-poyang-h2&#34;&gt;Modeling Ecosystem Service Conflicts in China’s Lake Poyang &lt;h2&gt;&lt;/h2&gt;
@@ -246,6 +254,22 @@ The results also show these constraints impose a shadow price that affects the i
 &lt;li&gt;Mathmatical Programming:
 &lt;a href=&#34;https://www.gurobi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gurobi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+=======
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;modeling-ecosystem-service-conflicts-in-chinas-lake-poyang-h2&#34;&gt;Modeling Ecosystem Service Conflicts in China’s Lake Poyang &lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;This paper proposes a model of ecosystem service management that takes into account the conflict between fisheries operations and conservation of endangered and threatened waterfowl, specifically Siberian Cranes. The model is calibrated to fit the example of China’s largest freshwater lake, Lake Poyang, the wintering ground for the last surviving population of Siberian Cranes. It captures important features of the lake&amp;rsquo;s hydrology, ecosystem, and economics to investigate the impact of uncoordinated and coordinated management of fishing and bird conservation.  The current regulations do not account for the externality fishing imposes on the endangered cranes, which results in their reduced population size.  We argue that the fishing season should be extended until the end of the wintering season to better conserve the cranes.  The model quantifies the cost of extending the season and can be used to design an optimal sustainable management policy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;: bioeconomics, endangered species conservation&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;testing-for-uniqueness-of-solutions-of-linear-inequality-systems-with-bulat-gafarovhttpsgafarovucdaviseduindexhtml-h2&#34;&gt;Testing for uniqueness of solutions of linear inequality systems (with &lt;a href=&#34;https://gafarov.ucdavis.edu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bulat Gafarov&lt;/a&gt;) &lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;We provide a necessary and sufficient condition for point identification of a parameter defined by a system of linear moment inequalities. We design a specification test, that distinguishes point-identified linear inequality model from a  misspecified or set-identified one. It is based on a novel necessary condition that can be reformulated in terms of positive linear dependence and feasibility of the inequalities.  We provide a joint testof the necessary conditions. The test is consistent against practically relevant hypotheses of misspecificationor identified set with empty interior. The procedure is based on feasibility check of linear and integralityconstraints, that can be efficiently performed using mixed integer quadratic programming (MIQP) solversin seconds.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;impacts-of-hypothetical-closures-around-the-galapagos-on-the-tuna-fisheries-in-the-eastern-pacific-ocean&#34;&gt;Impacts of hypothetical closures around the Galapagos on the tuna fisheries in the Eastern Pacific Ocean&lt;/h2&gt;
+&lt;p&gt;Measure the implications of hypothetical spatial closures in the area around the Galapagos on catches, revenue per trip, and the spatial distribution of fishing effort for the purse seine tuna fleet operating in the Eastern Pacific Ocean.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;:&lt;/p&gt;
+&lt;hr&gt;
+>>>>>>> 1de760c (first commit)
 </description>
     </item>
     
@@ -257,6 +281,7 @@ The results also show these constraints impose a shadow price that affects the i
       <description>&lt;p&gt;Below is a list of classes I work as a teaching assistant&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
+<<<<<<< HEAD
 &lt;p&gt;&lt;strong&gt;ARE 240C Time Series Econometrics&lt;/strong&gt;, graduate class, instructor: Bulat Gafarov&lt;br&gt;
 Course description: Probability theory; estimation, inference and forecasting of time series models; trends and non-standard asymptotic theory; vector time series methods and cointegration; time series models for higher order moments and transition data; state-space modeling and the Kalman filter.&lt;/p&gt;
 &lt;ul&gt;
@@ -276,6 +301,20 @@ Course description: Probability theory; estimation, inference and forecasting of
 &lt;a href=&#34;https://xiurouwu.github.io/teaching/155Fall2017.pdf&#34; target=&#34;_blank&#34;&gt;[Evaluation]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Winter 2017
 &lt;a href=&#34;https://xiurouwu.github.io/teaching/155Winter2017.pdf&#34; target=&#34;_blank&#34;&gt;[Evaluation]&lt;/a&gt;&lt;/li&gt;
+=======
+&lt;p&gt;ARE 240C Time Series Econometrics, graduate class, with Professor Bulat Gafarov&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Winter 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ARE 155 Operation Research and Management Science, undergraduate class, with Professor Holly Liu&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring 2018&lt;/li&gt;
+&lt;li&gt;Winter 2018&lt;/li&gt;
+&lt;li&gt;Fall 2017&lt;/li&gt;
+&lt;li&gt;Winter 2017&lt;/li&gt;
+>>>>>>> 1de760c (first commit)
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -296,6 +335,28 @@ Course description: Probability theory; estimation, inference and forecasting of
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>An example conference paper</title>
+      <link>https://xiurouwu.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://xiurouwu.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+>>>>>>> 1de760c (first commit)
       <title></title>
       <link>https://xiurouwu.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
