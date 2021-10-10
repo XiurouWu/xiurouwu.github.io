@@ -16,6 +16,12 @@ header:
 Below is a list of classes I work as a teaching assistant
 
 - ARE 240C Time Series Econometrics, graduate class, with Professor Bulat Gafarov  
+  * Winter 2019
 
-- ARE 155 Operation Research and Management Science, undergraduate Class, with Professor Holly Liu
 
+
+- ARE 155 Operation Research and Management Science, undergraduate class, with Professor Holly Liu
+  * Spring 2018
+  *  Winter 2018
+  *  Fall 2017
+  * Winter 2017

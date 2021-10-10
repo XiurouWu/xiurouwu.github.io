@@ -32,7 +32,7 @@ education:
     institution: Oregon State Unviersity
     year: 2016
   - course: BA in Economics
-    institution: Nankai University
+    institution: Nankai University, China
     year: 2012
 
 # Social/Academic Networking
