@@ -65,17 +65,6 @@ In-line math: $x + y = z$
 
 Make content appear incrementally
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
 
 ---
 
@@ -90,19 +79,9 @@ A fragment can accept two optional parameters:
 
 Add speaker notes to your presentation
 
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
 
 Press the `S` key to view the speaker notes!
 
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
 
 ---
 
@@ -129,11 +108,6 @@ Press the `S` key to view the speaker notes!
 
 Customize the slide style and background
 
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
 
 ---
 
