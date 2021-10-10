@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include conservation and sustainable resource management
+#bio: My research interests include conservation and sustainable resource management
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Agricultural and Resource Economics
     institution: University of California, Davis
-    year: 2022
+    year: 2022 (Expected)
   - course: MSc in Applied Economics
     institution: Oregon State Unviersity
     year: 2016
@@ -60,19 +60,18 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
  #-icon: cv
- #  icon_pack: ai
-  # link: uploads/resume.pdf
+  # icon_pack: ai
+  # link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xrwu@ucdavis.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an environmental and resource economist. My research focuses on conservation and sustainable resource management, balancing economic and ecological goals. My current research 1) address ecosystem service trade-offs in complicated integrated bioeconomic systems, 2) develop a more refined trip level models of fishers’ spatial-temporal decision-making process, motived by the high frequency space-time data in fishing activities and movement. My methods include dynamic optimization, mathematical programming, and econometrics.
+I am an environmental and resource economist. My research focuses on conservation and sustainable resource management, balancing economic and ecological goals. My methods include dynamic optimization, mathematical programming, and econometrics.
 
 I am on the job market and will be available for interviews at the 2022 ASSA Meetings.
 
-
- {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}
+ {{% staticref "uploads/cv.pdf" %}}Download CV{{% /staticref %}}
