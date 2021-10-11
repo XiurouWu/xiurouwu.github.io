@@ -11,7 +11,7 @@ role: PhD Candidate in Agricultural and Resource Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Davis
+- name:  of California, Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
