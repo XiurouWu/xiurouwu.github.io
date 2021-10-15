@@ -32,7 +32,7 @@ main:
   - name: Publication
     url: 'publication/'
     weight: 30
-  -  name: Teaching
+  - name: Teaching
     url: 'teaching/'
     weight: 40
 >>>>>>> 8cc7755 (Version 14)
