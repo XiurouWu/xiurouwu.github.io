@@ -10,7 +10,6 @@ main:
   - name: Research
     url: 'research/'
     weight: 20
-<<<<<<< HEAD
   - name: Publication
     url: 'publication/'
     weight: 30
