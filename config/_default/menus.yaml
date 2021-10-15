@@ -10,6 +10,7 @@ main:
   - name: Research
     url: 'research/'
     weight: 20
+<<<<<<< HEAD
   - name: Publication
     url: 'publication/'
     weight: 30
@@ -19,6 +20,23 @@ main:
   - name: CV
     url: 'uploads/cv.pdf'
     weight: 50 
+=======
+<<<<<<< HEAD
+  - name: Teaching
+    url: 'teaching/'
+    weight: 40
+  - name: Publication
+    url: 'publication/'
+    weight: 50
+=======
+  - name: Publication
+    url: 'publication/'
+    weight: 30
+  -  name: Teaching
+    url: 'teaching/'
+    weight: 40
+>>>>>>> 8cc7755 (Version 14)
+>>>>>>> cb7d29f (Version 14)
   - name: NatuRE Policy Lab
     url: 'https://naturepolicy.ucdavis.edu/'
     weight: 60
