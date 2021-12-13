@@ -28,17 +28,15 @@ the dynamic optimal. Building more refined models of trip level spatial decision
 
 *__keywords__*: fishery management, location choice, discrete-continuous dynamic choice, mixed integer programming
 
-<<<<<<< HEAD
+
  {{% staticref "research/location_choice_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
-=======
-- {{% staticref "research/location_choice_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
->>>>>>> a6fa5ac (first commit)
+
 
 
 ---
 ## Modeling Ecosystem Service Conflicts in China’s Lake Poyang <h2>
 
-<<<<<<< HEAD
+
 The paper models the joint management of conflicting ecosystem services in working landscapes. The case study is Lake Poyang, the largest freshwater lake in China, where longstanding local fishing practices have increasingly impinged on the winter habitat of the last surviving Siberian Cranes. The paper constructs an integrated hydro-bio-economic model of the crane-fisher-water system to investigate the comparative impacts of uncoordinated and coordinated management of fishery and crane conservation. The joint model is a 3-state nonsmooth hybrid dynamic problem that is within-year continuous and between-year discrete. It is solved by the pseudospectral method in aerospace engineering. In general, we find prolonging the fishing season extends the cranes’ winter feeding and enhances survival but at a cost to the fishery. Therefore the paper examines incentive modification schemes for fishery communities that induce crane conservation. With the decline in natural landscape quality, importance grows for working landscapes to buttress ecosystem service. The integrated framework I develop for coordinating institutions to maximize returns to ecosystem services in a working landscape applies directly to sustainable development, agricultural and otherwise, which competes for soil, water, and other natural resources in the same way.
 =======
 THe paper models the joint management of conflicting ecosystem services in working landscapes. The case study is Lake Poyang, the largest freshwater lake in China, where longstanding local fishing practices have increasingly impinged on the winter habitat of the last surviving Siberian Cranes. The paper constructs an integrated hydro-bio-economic model of the crane-fisher-water system to investigate the comparative impacts of uncoordinated and coordinated management of fishery and crane conservation. The joint model is a 3-state nonsmooth hybrid dynamic problem that is within-year continuous and between-year discrete. It is solved by the pseudospectral method in aerospace engineering. In general, we find prolonging the fishing season extends the cranes’ winter feeding and enhances survival but at a cost to the fishery. Therefore the paper examines incentive modification schemes for fishery communities that induce crane conservation. With the decline in natural landscape quality, importance grows for working landscapes to buttress ecosystem service. The integrated framework I develop for coordinating institutions to maximize returns to ecosystem services in a working landscape applies directly to sustainable development, agricultural and otherwise, which competes for soil, water, and other natural resources in the same way.
@@ -47,7 +45,6 @@ THe paper models the joint management of conflicting ecosystem services in worki
 *__keywords__*: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method
  {{% staticref "research/lake_poyang_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
 
- {{% staticref "research/lake_poyang_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
 
 ---
 ## Testing for uniqueness of solutions of linear inequality systems (with [Bulat Gafarov](https://gafarov.ucdavis.edu/index.html)) <h2>
