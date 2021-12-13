@@ -40,7 +40,8 @@ The paper models the joint management of conflicting ecosystem services in worki
 
 
 *__keywords__*: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method
- {{% staticref "research/lake_poyang_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
+ 
+  {{% staticref "research/lake_poyang_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
 
 
 ---
