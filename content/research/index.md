@@ -28,9 +28,7 @@ the dynamic optimal. Building more refined models of trip level spatial decision
 
 *__keywords__*: fishery management, location choice, discrete-continuous dynamic choice, mixed integer programming
 
-
  {{% staticref "research/location_choice_XW.pdf" "newtab" %}}[Manuscript]{{% /staticref %}}
-
 
 
 ---
