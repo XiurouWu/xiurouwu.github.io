@@ -16,7 +16,7 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 40
-  - name: CV
+ - name: CV
     url: 'uploads/cv.pdf'
     weight: 50 
   - name: NatuRE Policy Lab
