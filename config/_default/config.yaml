@@ -6,8 +6,15 @@
 title: Xiurou Wu # Website name
 baseurl: 'https://xiurouwu.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+<<<<<<< HEAD
 #googleAnalytics: G-F341NY68GJ
+<<<<<<< HEAD
 googleAnalytics: G-F341NY68GJ
+=======
+=======
+googleAnalytics: G-F341NY68GJ
+>>>>>>> 6dbd06a (version12)
+>>>>>>> a6fa5ac (first commit)
 ############################
 ## LANGUAGE
 ############################
