@@ -16,6 +16,12 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 40
+<<<<<<< HEAD
+=======
+  - name: Publication
+    url: 'publication/'
+    weight: 50
+>>>>>>> dbba104 (version 14)
   - name: NatuRE Policy Lab
     url: 'https://naturepolicy.ucdavis.edu/'
     weight: 60
