@@ -16,18 +16,13 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 40
-<<<<<<< HEAD
-=======
-  - name: Publication
-    url: 'publication/'
-    weight: 50
->>>>>>> dbba104 (version 14)
+  - name: CV
+    url: 'uploads/cv.pdf'
+    weight: 50 
   - name: NatuRE Policy Lab
     url: 'https://naturepolicy.ucdavis.edu/'
     weight: 60
-  - name: CV
-    url: 'uploads/cv.pdf'
-    weight: 50
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
