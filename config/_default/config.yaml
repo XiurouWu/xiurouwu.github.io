@@ -5,11 +5,8 @@
 
 title: Xiurou Wu # Website name
 baseurl: 'https://xiurouwu.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
-
-
+copyright: '© {2021} Xiurou Wu' # Footer text, e.g. '© {year} Me'
 googleAnalytics: G-F341NY68GJ
-
 ############################
 ## LANGUAGE
 ############################

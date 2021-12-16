@@ -254,6 +254,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F341NY68GJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-F341NY68GJ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -516,6 +555,7 @@
 
         <li class="nav-item">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <a class="nav-link " href="/publication/"><span>Publication</span></a>
         </li>
 
@@ -548,6 +588,8 @@
         <li class="nav-item">
 =======
 >>>>>>> 1de760c (first commit)
+=======
+>>>>>>> a300d1e (restore ab72760)
           <a class="nav-link " href="/teaching/"><span>Teaching</span></a>
         </li>
 
@@ -758,8 +800,13 @@ The results also show these constraints impose a shadow price that affects the i
 <p><em><strong>keywords</strong></em>: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method</p>
 <hr>
 <h2 id="testing-for-uniqueness-of-solutions-of-linear-inequality-systems-with-bulat-gafarovhttpsgafarovucdaviseduindexhtml-h2">Testing for uniqueness of solutions of linear inequality systems (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank" rel="noopener">Bulat Gafarov</a>) <h2></h2>
+<<<<<<< HEAD
 <p>We provide a necessary and sufficient condition for point identification of a parameter defined by a system of linear moment inequalities. We design a specification test, that distinguishes point-identified linear inequality model from a  misspecified or set-identified one. It is based on a novel necessary condition that can be reformulated in terms of positive linear dependence and feasibility of the inequalities.  We provide a joint testof the necessary conditions. The test is consistent against practically relevant hypotheses of misspecificationor identified set with empty interior. The procedure is based on feasibility check of linear and integralityconstraints, that can be efficiently performed using mixed integer quadratic programming (MIQP) solvers in seconds.</p>
 <p><em><strong>keywords</strong></em>: moment inequalities, mixed integer programming</p>
+=======
+<p>We provide a necessary and sufficient condition for point identification of a parameter defined by a system of linear moment inequalities. We design a specification test, that distinguishes point-identified linear inequality model from a  misspecified or set-identified one. It is based on a novel necessary condition that can be reformulated in terms of positive linear dependence and feasibility of the inequalities.  We provide a joint testof the necessary conditions. The test is consistent against practically relevant hypotheses of misspecificationor identified set with empty interior. The procedure is based on feasibility check of linear and integralityconstraints, that can be efficiently performed using mixed integer quadratic programming (MIQP) solversin seconds.</p>
+<p><em><strong>keywords</strong></em>:</p>
+>>>>>>> a300d1e (restore ab72760)
 <hr>
 <h2 id="impacts-of-hypothetical-closures-around-the-galapagos-on-the-tuna-fisheries-in-the-eastern-pacific-ocean">Impacts of hypothetical closures around the Galapagos on the tuna fisheries in the Eastern Pacific Ocean</h2>
 <p>Measure the implications of hypothetical spatial closures in the area around the Galapagos on catches, revenue per trip, and the spatial distribution of fishing effort for the purse seine tuna fleet operating in the Eastern Pacific Ocean.</p>

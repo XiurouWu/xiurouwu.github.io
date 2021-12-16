@@ -1,10 +1,5 @@
 <!DOCTYPE html><html lang="en-us" >
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 1de760c (first commit)
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -257,6 +252,45 @@
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F341NY68GJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-F341NY68GJ', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -516,6 +550,7 @@
 
         <li class="nav-item">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <a class="nav-link " href="/publication/"><span>Publication</span></a>
         </li>
 
@@ -548,6 +583,8 @@
         <li class="nav-item">
 =======
 >>>>>>> 1de760c (first commit)
+=======
+>>>>>>> a300d1e (restore ab72760)
           <a class="nav-link " href="/teaching/"><span>Teaching</span></a>
         </li>
 
