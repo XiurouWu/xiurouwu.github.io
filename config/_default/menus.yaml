@@ -16,12 +16,15 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 40
- - name: CV
+  - name: CV
     url: 'uploads/cv.pdf'
     weight: 50 
+  - name: Centre for Applied Research (SNF)
+    url: 'https://snf.no/'
+    weight: 60  
   - name: NatuRE Policy Lab
     url: 'https://naturepolicy.ucdavis.edu/'
-    weight: 60
+    weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.
