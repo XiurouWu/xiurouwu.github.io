@@ -30,6 +30,8 @@ interests:
 - Resource management 
 - Bioeconomics
 - Fisheries
+- Recreation demand
+- Climate change 
 # Education to show in About widget
 education:
   courses:
