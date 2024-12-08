@@ -1,14 +1,16 @@
 # Website Metadata
+# Website Metadata
 title: Xiurou Wu
 baseurl: 'https://xiurouwu.github.io/'
 copyright: '© {2021} Xiurou Wu'
+googleAnalytics: 'G-F341NY68GJ'  # Move it here, at the top level
 
 ############################
 ## PARAMETERS
 ############################
 
-params:
-  googleAnalytics: ''
+# Remove googleAnalytics completely from the params section
+
 
 
 ############################
