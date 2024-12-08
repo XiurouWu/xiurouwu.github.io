@@ -80,10 +80,8 @@ email: "xrwu@ucdavis.edu"
 highlight_name: true
 ---
 
-I am an environmental and resource economist. My research focuses on conservation and sustainable resource management, balancing economic and ecological goals. My methods include dynamic optimization, mathematical programming, and econometrics.
+I am a postdoctoral fellow at Centre for Applied Research (SNF) at the Norwegian School of Economics (NHH), Bergen, Norway.
 
-I am a member of [the NatuRE Policy Lab at UC Davis](https://naturepolicy.ucdavis.edu/). This is a working group of faculty and students tackling resource management problems with tools from economics and other social and natural sciences. Look at the research by my fellows!
-
-I am on the job market and will be available for interviews at the 2022 ASSA Meetings.
+My research focuses on conservation and sustainable resource management, balancing economic and ecological goals. My methods include dynamic optimization, mathematical programming, and econometrics.
 
  {{% staticref "uploads/cv.pdf" %}}Download CV{{% /staticref %}}
