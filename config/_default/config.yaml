@@ -10,7 +10,9 @@ googleAnalytics: 'G-F341NY68GJ'  # Move it here, at the top level
 ############################
 
 # Remove googleAnalytics completely from the params section
-
+params:
+  marketing:
+    google_tag_manager: 'GTM-TD8C38V'
 
 
 ############################
