@@ -1,12 +1,16 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Website Metadata
+title: Xiurou Wu
+baseurl: 'https://xiurouwu.github.io/'
+copyright: '© {2021} Xiurou Wu'
 
-title: Xiurou Wu # Website name
-baseurl: 'https://xiurouwu.github.io/' # Website URL
-copyright: '© {2021} Xiurou Wu' # Footer text, e.g. '© {year} Me'
-googleAnalytics: G-F341NY68GJ
+############################
+## PARAMETERS
+############################
+
+params:
+  googleAnalytics: ''
+
+
 ############################
 ## LANGUAGE
 ############################
@@ -26,12 +30,13 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
-## ADVANCED
+## ADVANCED SETTINGS
 ############################
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -66,3 +71,28 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+############################
+## SECURITY SETTINGS
+############################
+
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+      - '^(dart-)?sass(-embedded)?$'
+      - '^go$'
+      - '^git$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
+    osEnv:
+      - '(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE)$'
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_POST_CSS$'
+  http:
+    methods: ['(?i)GET|POST']
+    urls: ['.*']
