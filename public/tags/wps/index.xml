@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WPs | Xiurou Wu</title>
+    <link>http://localhost:1313/tags/wps/</link>
+      <atom:link href="http://localhost:1313/tags/wps/index.xml" rel="self" type="application/rss+xml" />
+    <description>WPs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>WPs</title>
+      <link>http://localhost:1313/tags/wps/</link>
+    </image>
+    
+    <item>
+      <title>A Spatial Model of Multi-destination Trips: An application to commercial fishing</title>
+      <link>http://localhost:1313/research/wps/multidestination/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/wps/multidestination/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-examples-of-multi-destination-trips-subfigure-a-from-ofarrell-et-al-2019httpswwwnaturecomarticless41467-019-11106-y-subfigure-b-from-albers-et-al-2020httpswwwtandfonlinecomdoifull1010801742177220191692143-and-subfigure-c-from-parsons-et-al-2021httpswwwjournalsuchicagoedudoi101086710714&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/multidestination.png&#34; alt=&#34;LocationChoice&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Examples of multi-destination trips, Subfigure (a) from &lt;a href=&#34;https://www.nature.com/articles/s41467-019-11106-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O&amp;rsquo;Farrell et al. 2019&lt;/a&gt;, Subfigure (b) from &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/17421772.2019.1692143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Albers et al. 2020&lt;/a&gt;, and Subfigure (c) from &lt;a href=&#34;https://www.journals.uchicago.edu/doi/10.1086/710714&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parsons et al. 2021&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;strong&gt;Coauthors&lt;/strong&gt;
+&lt;a href=&#34;https://jamesnsanchirico.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James N. Sanchirico&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High-resolution spatial-temporal mobility data are generating new insights into human behavior. Motivated by these insights, we construct a novel model of a multidestination trip that incorporates simultaneous discrete and continuous decisions on extensive and intensive margins, including location choice, time and effort allocation at each site, travel route, and trip length. While we apply the model to commercial fishing, multidestination trips are present, for example, in recreation and tourism, natural resource hunting and gathering (e.g., timber, fuel woods), and transportation planning.  In the fishing literature, the prior research on fishing trips focuses on choosing discrete fishing locations, treating all other trip decision margins as exogenous. We show analytically that all decisions are interconnected and conditional on the underlying vessel capital. Applying state-of-the-art numerical methods for mixed integer optimization, we compare the spatial patterns of a forward-looking vessel to a myopic vessel that essentially represents the behavioral model underpinning the large discrete choice literature in fishery and recreational demand on site choices. We find that vessel heterogeneity leads to different spatial patterns of resource use, including sites fished, effort allocations, and trip lengths. We demonstrate the policy usefulness of the model by considering the distributional impacts of a fuel tax or removal of a fuel subsidy. The existence of high-resolution data in environmental and natural resource economics opens up the possibility of a unifying framework of resource use, such as the one developed here, as differences in spatial and temporal data availability that led to methodological divergences become homogenized.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: natural resource economics, recreation demand, mixed-integer programming, capacity utilization, random utility model&lt;/p&gt;
+&lt;p&gt;Manuscript available by request&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

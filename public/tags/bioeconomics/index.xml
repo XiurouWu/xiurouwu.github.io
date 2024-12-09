@@ -14,9 +14,9 @@
     
     <item>
       <title>Modeling Ecosystem Service Conflicts in China’s Lake Poyang</title>
-      <link>http://localhost:1313/research/lakepoyang/</link>
+      <link>http://localhost:1313/research/wps/lakepoyang/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/lakepoyang/</guid>
+      <guid>http://localhost:1313/research/wps/lakepoyang/</guid>
       <description>&lt;p&gt;
 
 
@@ -35,7 +35,7 @@
 
 &lt;figure  id=&#34;figure-siberian-cranes-wintering-in-lake-poyang-photo-by-haiyan-zhou&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpeg&#34; alt=&#34;Lake Poyang&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/cranes.jpeg&#34; alt=&#34;Lake Poyang&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Siberian Cranes wintering in Lake Poyang, photo by Haiyan Zhou
     &lt;/figcaption&gt;&lt;/figure&gt;

@@ -14,9 +14,9 @@
     
     <item>
       <title>A Spatial Model of Multi-destination Trips: An application to commercial fishing</title>
-      <link>http://localhost:1313/research/locationchoice/</link>
+      <link>http://localhost:1313/research/wps/multidestination/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/locationchoice/</guid>
+      <guid>http://localhost:1313/research/wps/multidestination/</guid>
       <description>&lt;p&gt;
 
 
@@ -35,7 +35,7 @@
 
 &lt;figure  id=&#34;figure-examples-of-multi-destination-trips-subfigure-a-from-ofarrell-et-al-2019httpswwwnaturecomarticless41467-019-11106-y-subfigure-b-from-albers-et-al-2020httpswwwtandfonlinecomdoifull1010801742177220191692143-and-subfigure-c-from-parsons-et-al-2021httpswwwjournalsuchicagoedudoi101086710714&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.png&#34; alt=&#34;LocationChoice&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/multidestination.png&#34; alt=&#34;LocationChoice&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Examples of multi-destination trips, Subfigure (a) from &lt;a href=&#34;https://www.nature.com/articles/s41467-019-11106-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O&amp;rsquo;Farrell et al. 2019&lt;/a&gt;, Subfigure (b) from &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/17421772.2019.1692143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Albers et al. 2020&lt;/a&gt;, and Subfigure (c) from &lt;a href=&#34;https://www.journals.uchicago.edu/doi/10.1086/710714&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parsons et al. 2021&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
