@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conservation | Xiurou Wu</title>
+    <link>http://localhost:1313/tags/conservation/</link>
+      <atom:link href="http://localhost:1313/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conservation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Conservation</title>
+      <link>http://localhost:1313/tags/conservation/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Ecosystem Service Conflicts in China’s Lake Poyang</title>
+      <link>http://localhost:1313/research/lakepoyang/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/lakepoyang/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-siberian-cranes-wintering-in-lake-poyang-photo-by-haiyan-zhou&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpeg&#34; alt=&#34;Lake Poyang&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Siberian Cranes wintering in Lake Poyang, photo by Haiyan Zhou
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;strong&gt;Coauthors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://are.ucdavis.edu/people/faculty/emeriti/james-wilen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James E. Wilen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamesnsanchirico.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James N. Sanchirico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This paper develops a model of ecosystem service management that illuminates the conflict between fishing operations and conservation of endangered and threatened waterfowl, specifically Siberian Cranes. The model is calibrated to fit the example of the China’s largest freshwater lake, Lake Poyang, the wintering ground for the last surviving population of Siberian Cranes. It captures important features of the lake&amp;rsquo;s hydrology, ecosystem, and economics to investigate the impact of uncoordinated and coordinated management of fishing and bird conservation.  The coordinated (joint) management problem is a three-state nonsmooth hybrid dynamic problem that is within-year continuous and between-year discrete. It is solved by the novel pseudo-spectral method from aerospace engineering. The current regulations do not account for the externality fishing imposes on the endangered cranes, which results in their population size decreasing over time. In general, we find prolonging the fishing season extends the cranes’ winter feeding and enhances survival but at a cost to the fishery. Then we examine compensation schemes for fishery communities that induce crane conservation. With the decline in natural landscape quality, importance grows for working landscapes to provide ecosystem services.The integrated framework I develop for coordinating institutions to maximize returns to ecosystem services in a working landscape applies directly to sustainable development, agricultural and otherwise, which competes for soil, water, and other natural resources in the same way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;research/lake_poyang_XW.pdf&#34;&gt;Manuscript&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

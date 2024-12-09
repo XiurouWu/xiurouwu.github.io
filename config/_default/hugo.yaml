@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Xiurou Wu
 # Website URL
 baseURL: 'https://example.com/'
 
@@ -54,3 +54,19 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /research/**
+    profile: false
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    header:
+      navbar:
+        enable: true
+

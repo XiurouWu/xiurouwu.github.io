@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/wowchemy/</link>
+      <atom:link href="http://localhost:1313/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Wowchemy</title>
+      <link>http://localhost:1313/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>CASINO</title>
+      <link>http://localhost:1313/research/casino/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/casino/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Location Choice</title>
+      <link>http://localhost:1313/research/locationchoice/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/locationchoice/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modeling Ecosystem Service Conflicts in China’s Lake Poyang</title>
+      <link>http://localhost:1313/research/lakepoyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/lakepoyang/</guid>
+      <description>&lt;p&gt;The paper models the joint management of conflicting ecosystem services in working landscapes. The case study is Lake Poyang, the largest freshwater lake in China, where longstanding local fishing practices have increasingly impinged on the winter habitat of the last surviving Siberian Cranes. The paper constructs an integrated hydro-bio-economic model of the crane-fisher-water system to investigate the comparative impacts of uncoordinated and coordinated management of fishery and crane conservation. The joint model is a 3-state nonsmooth hybrid dynamic problem that is within-year continuous and between-year discrete. It is solved by the pseudospectral method in aerospace engineering. In general, we find prolonging the fishing season extends the cranes’ winter feeding and enhances survival but at a cost to the fishery. Therefore the paper examines incentive modification schemes for fishery communities that induce crane conservation. With the decline in natural landscape quality, importance grows for working landscapes to buttress ecosystem service. The integrated framework I develop for coordinating institutions to maximize returns to ecosystem services in a working landscape applies directly to sustainable development, agricultural and otherwise, which competes for soil, water, and other natural resources in the same way.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;keywords&lt;/strong&gt;&lt;/em&gt;: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;research/lake_poyang_XW.pdf&#34;&gt;Manuscript&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

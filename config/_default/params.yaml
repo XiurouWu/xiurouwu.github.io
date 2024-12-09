@@ -17,7 +17,7 @@ marketing:
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-F341NY68GJ'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Xiurou Wu"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Xiurou Wu.'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+# params.yaml
+reading_time: false
+show_date: false

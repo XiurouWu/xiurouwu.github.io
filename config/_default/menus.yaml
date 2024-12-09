@@ -4,24 +4,24 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
+  - name: Home
+    url:  /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Research
+    url: 'research/'
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Publication
+    url: 'publication/'
     weight: 30
   - name: Teaching
-    url: teaching/
+    url: 'teaching/'
     weight: 40
+  - name: CV
+    url: 'uploads/cv.pdf'
+    weight: 50 
+  - name: Centre for Applied Research (SNF)
+    url: 'https://snf.no/'
+    weight: 60  
+  - name: NatuRE Policy Lab
+    url: 'https://naturepolicy.ucdavis.edu/'
+    weight: 70

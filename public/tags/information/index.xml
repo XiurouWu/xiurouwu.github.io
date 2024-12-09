@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information | Xiurou Wu</title>
+    <link>http://localhost:1313/tags/information/</link>
+      <atom:link href="http://localhost:1313/tags/information/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Information</title>
+      <link>http://localhost:1313/tags/information/</link>
+    </image>
+    
+    <item>
+      <title>The Value of Public Catch Information</title>
+      <link>http://localhost:1313/research/casino/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/casino/</guid>
+      <description>&lt;p&gt;Government monitoring and management collects private data that can become publicly accessible under transparent management. Meanwhile, technological advances have enabled novel sources of high-resolution mobility data that are inherently public. Together, these public data sources create opportunities for innovative digital platforms providing information services in the private sectors. This potential is exemplified in Norway&amp;rsquo;s fishing industry, where public access to fishing data has driven the development of digital platforms that aim for both sustainable fishing practices and energy efficiency.s driven the development of digital platforms that aim for both sustainable fishing practices and energy efficiency—critical objectives in the fishing industry&amp;rsquo;s efforts to adapt to and mitigate climate change. However, the value of information accessibility remains ambiguous, as better information may lead to increased fleet congestion in productive fishing grounds. Using natural experiments in Norwegian fisheries that altered the accessibility of public catch data, this paper analyzes how information availability affects fishing profit, fishing efficiency, and fleet congestion, focusing specifically on Norwegian bottom trawlers—the largest vessels in groundfish fisheries that face particular scrutiny for their carbon emissions and seabed impacts. This paper examines key sustainability metrics including bycatch rates, fuel consumption, carbon emissions, and seabed disturbance. This research provides insights into the trade-offs inherent in data transparency policies, particularly in the context of natural resource management where public sector data accessibility can drive private sector innovation while potentially affecting competitive dynamics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: value of information, congestion, climate change adaptation and mitigation, innovation&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
