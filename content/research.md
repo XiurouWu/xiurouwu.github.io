@@ -18,7 +18,7 @@ sections:
   - block: collection
     content:
       title: Working Papers
-      text: My research builds micro-foundations for conservation and resource management problems, to address the wellbeing of people who depend on the resources and the health of ecosystems. To solve these challenging problems, I employ dynamic optimization, mathematical programming, and econometrics methodologies. I also look beyond economics for state-of-the-art numerical tools to tackle these often nonsmooth dynamic resource management problems.
+      text: To solve conservation and resource management problems, I employ dynamic optimization, mathematical programming, and econometrics methodologies. I also look beyond economics for state-of-the-art numerical tools to tackle these often nonsmooth dynamic resource management problems.
       count: 0
       filters: 
         folders:

@@ -27,6 +27,7 @@ This paper develops a model of ecosystem service management that illuminates the
 
 __keywords__: bioeconomics, endangered species conservation, hybrid discrete-continuous model, pseudospectral method
 
-[Manuscript](research/lake_poyang_XW.pdf)
+[Manuscript](https://xiurouwu.github.io/research/lake_poyang_XW.pdf)
+
 
 <!--more-->
