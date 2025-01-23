@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/ongoing/</link>
       <atom:link href="http://localhost:1313/tags/ongoing/index.xml" rel="self" type="application/rss+xml" />
     <description>Ongoing</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Ongoing</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Crab management and marine heatwaves – the case of the red king crab management in Norway</title>
-      <link>http://localhost:1313/research/ongoing/crab/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ongoing/crab/</guid>
+      <title>The Value of Public Catch Information</title>
+      <link>http://localhost:1313/research/ongoing/valueinfo/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ongoing/valueinfo/</guid>
       <description>&lt;p&gt;
 
 
@@ -33,20 +33,17 @@
 
 
 
-&lt;figure  id=&#34;figure-the-red-king-crab-was-an-unwanted-alien-species-for-a-long-time-before-it-became-a-bonanza-in-both-norway-and-russia-figure-red-king-crab-native-and-invasive-distributionhttpswwwgridanoresources7734&#34;&gt;
+&lt;figure  id=&#34;figure-a-start-up-company-catchwise-visualizes-public-norwegian-catch-data-from-january-2023-this-screenshot-shows-a-heatmap-of-catch-and-catch-reports-photo-fiskeribladethttpswwwfiskeribladetno&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/rkcdist.jpg&#34; alt=&#34;RKC&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/catchwise.png&#34; alt=&#34;CASINO&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      The red king crab was an unwanted alien species for a long time, before it became a bonanza in both Norway and Russia. (Figure: &lt;a href=&#34;https://www.grida.no/resources/7734&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red king crab native and invasive distribution&lt;/a&gt;])
+      A start up company, Catchwise, visualizes public Norwegian catch data from January 2023. This screenshot shows a heatmap of catch and catch reports. Photo: &lt;a href=&#34;https://www.fiskeribladet.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiskeribladet&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;strong&gt;Coauthors&lt;/strong&gt;
-&lt;a href=&#34;https://snf.no/medarbeidere/margrethe-aanesen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Margrethe Aanesen&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This paper analyzes how marine heatwaves (MHWs) affect the red king crab (RKC) fisheries in Norway. Drawing insights from similar events in the northeast Pacific and the Bering Sea, we first employ a socio-ecological systems (SES) model to understand how changes in RKC productivity and distribution due to MHWs could impact local fishing communities and economic activities in northern Norway. Subsequently, we assess the effects of identified marine heatwaves on the utilization of fishing permits specific to coastal vessels capable of catching red king crabs, as well as on the associated landing activities. This study is particularly relevant because the RKC fishery, though based on an introduced species, has become economically significant for coastal communities in northern Norway, supporting both commercial fishing and tourism activities.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: marine heatwave, crab fisheries&lt;/p&gt;
-&lt;p&gt;This research is part of my postdoctoral work, funded by &lt;a href=&#34;https://snf.no/medarbeidere/sturla-f-kvamsdal/casino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Winners and losers in the climate casino: Arctic marine resources under climate change (CASINO)&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;Government monitoring and management collects private data that can become publicly accessible under transparent management. Meanwhile, technological advances have enabled novel sources of high-resolution mobility data that are inherently public. Together, these public data sources create opportunities for innovative digital platforms providing information services in the private sectors. This potential is exemplified in Norway&amp;rsquo;s fishing industry, where public access to fishing data has driven the development of digital platforms that aim for both sustainable fishing practices and energy efficiency.s driven the development of digital platforms that aim for both sustainable fishing practices and energy efficiency—critical objectives in the fishing industry&amp;rsquo;s efforts to adapt to and mitigate climate change. However, the value of information accessibility remains ambiguous, as better information may lead to increased fleet congestion in productive fishing grounds. Using natural experiments in Norwegian fisheries that altered the accessibility of public catch data, this paper analyzes how information availability affects fishing profit, fishing efficiency, and fleet congestion, focusing specifically on Norwegian bottom trawlers—the largest vessels in groundfish fisheries that face particular scrutiny for their carbon emissions and seabed impacts. This paper examines key sustainability metrics including bycatch rates, fuel consumption, carbon emissions, and seabed disturbance. This research provides insights into the trade-offs inherent in data transparency policies, particularly in the context of natural resource management where public sector data accessibility can drive private sector innovation while potentially affecting competitive dynamics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;keywords&lt;/strong&gt;: value of information, congestion, climate change adaptation and mitigation, innovation&lt;/p&gt;
+&lt;p&gt;This research is part of my postdoctoral work, funded by &lt;a href=&#34;https://snf.no/medarbeidere/sturla-f-kvamsdal/casino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Winners and losers in the climate casino: Arctic marine resources under climate change (CASINO)&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
