@@ -62,6 +62,8 @@ languages:
 
 ## About Me
 
-I am a postdoctoral fellow at Centre for Applied Research (SNF) at the Norwegian School of Economics (NHH), Bergen, Norway.
+I am a postdoctoral fellow at Centre for Applied Research (SNF) at the Norwegian School of Economics (NHH), Bergen, Norway. 
+
+In Fall 2025, I'll join the Department of Natural Resources and Environmental Management at University of Hawaiʻi at Mānoa as an Assistant Professor of Coastal Fisheries Management and Policy.
 
 My research builds micro-foundations for conservation and sustainable resource management in aquatic ecosystems,focusing on how human activities affect both ecosystem health and resource-dependent communities under climate change pressures. Through interdisciplinary methodological approaches combining econometrics, mathematical programming, dynamic optimization, and spatial analysis, I contribute to the advancement of natural resource management through research on sustainable use practices and climate adaptation strategies across varying levels of data availability.
